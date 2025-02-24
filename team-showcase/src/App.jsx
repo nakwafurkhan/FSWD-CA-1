@@ -1,6 +1,5 @@
-// src/App.jsx
 import React from 'react';
-import TeamMemberCard from './pages/TeamMemberCard';
+import TeamMemberCard from './components/TeamMemberCard';
 
 function App() {
   return (
